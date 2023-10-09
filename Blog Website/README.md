@@ -1,5 +1,5 @@
 # Blog Website
-Available at [Blog Website](https://sshiwangi.github.io/Blog-website/)
+Available at ([https://sshiwangi.github.io/Blog-website/](https://sshiwangi.github.io/Blog-website/))
 ## About
 
 A simple blog website built using HTML, CSS and javascript having two pages, a landing page and a blog writing page. Clicking on "start writing" will lead the user to the 2nd page.
