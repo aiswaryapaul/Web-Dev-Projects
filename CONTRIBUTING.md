@@ -45,7 +45,7 @@ We welcome and appreciate your contributions! If you'd like to contribute code, 
 2. **Clone the Repository**: Clone your forked repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/yourprojectname.git
+   git clone https://github.com/Google-Developer-Student-Clubs-TECB/Web-Dev-Projects.git
    ```
 3. **Navigate to the main Project**
    ```bash
